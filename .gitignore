@@ -1,0 +1,6 @@
+# Build artifacts — never committed (rebuilt by `make`)
+test_tiny_gc
+test_tiny_gc_audit
+*.o
+*.a
+__pycache__/
