@@ -12,9 +12,9 @@ Reading order: F0 → F1 → L0 → 02…13 (L1 absorbed by F1, superseded).
 
 | # | Piece | Status | Code / files | LinkedIn URL |
 |---|-------|--------|--------------|--------------|
-| F0 | Heap vs stack + manual memory management | ✅ posted (URL pending Prabhu) | [repo root](https://github.com/prabhu-david-ns/tgc-build) | _fill after posting_ |
-| F1 | Where GC lives + what it is (Java/Go/CPython + taxonomy) | ✅ posted (URL pending Prabhu) | [prep/refcount-cycles.py](https://github.com/prabhu-david-ns/tgc-build/blob/main/prep/refcount-cycles.py) · [.specs/01](https://github.com/prabhu-david-ns/tgc-build/blob/main/.specs/01-prep-gc-concepts.md) | _fill after posting_ |
-| L0 | Series introduction — "the safety net C never had" | ✅ posted (URL pending Prabhu) | [repo root](https://github.com/prabhu-david-ns/tgc-build) | _fill after posting_ |
+| F0 | Heap vs stack + manual memory management | ✅ posted | [repo root](https://github.com/prabhu-david-ns/tgc-build) | https://www.linkedin.com/posts/prabhu-david-sheryl-b5205019_heapvstack-activity-7505060625505591296-kXpN |
+| F1 | Where GC lives + what it is (Java/Go/CPython + taxonomy) | ✅ posted | [prep/refcount-cycles.py](https://github.com/prabhu-david-ns/tgc-build/blob/main/prep/refcount-cycles.py) · [.specs/01](https://github.com/prabhu-david-ns/tgc-build/blob/main/.specs/01-prep-gc-concepts.md) | https://www.linkedin.com/posts/prabhu-david-sheryl-b5205019_gc-activity-7505422930751934464-7hto |
+| L0 | Series introduction — "the safety net C never had" | ✅ posted | [repo root](https://github.com/prabhu-david-ns/tgc-build) | https://www.linkedin.com/posts/prabhu-david-sheryl-b5205019_series-activity-7505785202300993537-KBcm |
 | 02 | Refcounting cannot free cycles | 🟠 review — draft PR | [prep/refcount-cycles.py](https://github.com/prabhu-david-ns/tgc-build/blob/main/prep/refcount-cycles.py) | _fill after posting_ |
 | 03 | Mark and sweep on a toy heap | 🟠 review — draft PR | [prep/mark-sweep-sim.py](https://github.com/prabhu-david-ns/tgc-build/blob/main/prep/mark-sweep-sim.py) | _fill after posting_ |
 | 04 | Conservative collection & false positives | 🟠 review — draft PR | [prep/conservative-scan.py](https://github.com/prabhu-david-ns/tgc-build/blob/main/prep/conservative-scan.py) | _fill after posting_ |
